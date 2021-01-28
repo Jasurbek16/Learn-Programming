@@ -1,5 +1,5 @@
 
-                        /*                U2010164
+                        /*              
                                       Mamurov Jasurbek
                                    Bank Management System
                            
@@ -352,7 +352,7 @@ int main(){
           }
           }break;
           case 6: /*Additional info*/
-              cout << " ------->Dec25th-------->" << endl<<"--------> Developed by Jasurbek Mamurov(U2010164)-------->" << endl<<"-------> MJBank <-------- "<<endl <<  endl << endl;
+              cout << " ------->Dec25th-------->" << endl<<"--------> Developed by Jasurbek Mamurov-------->" << endl<<"-------> MJBank <-------- "<<endl <<  endl << endl;
               exit(6);//Exit the main program
               break;
           default:
