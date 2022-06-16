@@ -1,4 +1,5 @@
-# bank_account_management
-Bank account management project written on C++
+# Learn-C++
+This repository includes all of the codes used while learning C++
 
-This particular code was written by MJey for C++ project
+## Bank Account Management
+Let's see its [image](https://github.com/Jasurbek16/bank_account_management/blob/main/paLSegQ.png).
